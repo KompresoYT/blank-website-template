@@ -1,5 +1,5 @@
 # Current version
-For php < 8.0
+For php 7.x and lower
 
 # blank-website-template
 Blank template for creating a website from scratch
